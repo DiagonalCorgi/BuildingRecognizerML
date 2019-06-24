@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>0_0_480_1_70__News_crn-14_sydney_opera_house.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\test\0_0_480_1_70__News_crn-14_sydney_opera_house.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>309</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>opera house</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>65</xmin>
+			<ymin>84</ymin>
+			<xmax>443</xmax>
+			<ymax>243</ymax>
+		</bndbox>
+	</object>
+</annotation>

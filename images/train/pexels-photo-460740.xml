@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>pexels-photo-460740.jpeg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\pexels-photo-460740.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>747</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>eiffel tower</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>92</xmin>
+			<ymin>21</ymin>
+			<xmax>342</xmax>
+			<ymax>544</ymax>
+		</bndbox>
+	</object>
+</annotation>

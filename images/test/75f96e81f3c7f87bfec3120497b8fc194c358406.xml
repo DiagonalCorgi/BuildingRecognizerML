@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>75f96e81f3c7f87bfec3120497b8fc194c358406.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\test\75f96e81f3c7f87bfec3120497b8fc194c358406.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>598</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>opera house</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>26</ymin>
+			<xmax>800</xmax>
+			<ymax>561</ymax>
+		</bndbox>
+	</object>
+</annotation>

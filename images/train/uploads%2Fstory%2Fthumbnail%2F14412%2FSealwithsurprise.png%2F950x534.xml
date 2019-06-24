@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>uploads%2Fstory%2Fthumbnail%2F14412%2FSealwithsurprise.png%2F950x534.png</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\uploads%2Fstory%2Fthumbnail%2F14412%2FSealwithsurprise.png%2F950x534.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>950</width>
+		<height>534</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>opera house</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>77</xmin>
+			<ymin>36</ymin>
+			<xmax>937</xmax>
+			<ymax>392</ymax>
+		</bndbox>
+	</object>
+</annotation>

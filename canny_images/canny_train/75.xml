@@ -1,0 +1,26 @@
+<annotation>
+	<folder>completed</folder>
+	<filename>75.PNG</filename>
+	<path>C:\tensorflow1\models\research\object_detection\canny_images\completed\75.PNG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>499</width>
+		<height>334</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>eiffel tower</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>281</xmin>
+			<ymin>23</ymin>
+			<xmax>435</xmax>
+			<ymax>267</ymax>
+		</bndbox>
+	</object>
+</annotation>

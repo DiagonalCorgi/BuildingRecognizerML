@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>sydney-opera-house-GettyImages-163808917.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\sydney-opera-house-GettyImages-163808917.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>opera house</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>87</xmin>
+			<ymin>4</ymin>
+			<xmax>476</xmax>
+			<ymax>176</ymax>
+		</bndbox>
+	</object>
+</annotation>

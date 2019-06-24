@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>photo-1526384838411-3d7e474fcfbd.jpeg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\photo-1526384838411-3d7e474fcfbd.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>400</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>opera house</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>24</ymin>
+			<xmax>500</xmax>
+			<ymax>263</ymax>
+		</bndbox>
+	</object>
+</annotation>

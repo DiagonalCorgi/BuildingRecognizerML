@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>tmg-article_default_mobile.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\tmg-article_default_mobile.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>325</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>eiffel tower</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>237</xmin>
+			<ymin>7</ymin>
+			<xmax>367</xmax>
+			<ymax>265</ymax>
+		</bndbox>
+	</object>
+</annotation>

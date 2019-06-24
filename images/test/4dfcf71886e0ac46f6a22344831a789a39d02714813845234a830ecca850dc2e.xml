@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>4dfcf71886e0ac46f6a22344831a789a39d02714813845234a830ecca850dc2e.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\test\4dfcf71886e0ac46f6a22344831a789a39d02714813845234a830ecca850dc2e.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>682</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>eiffel tower</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>202</xmin>
+			<ymin>71</ymin>
+			<xmax>477</xmax>
+			<ymax>647</ymax>
+		</bndbox>
+	</object>
+</annotation>

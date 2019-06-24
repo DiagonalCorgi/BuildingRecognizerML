@@ -1,0 +1,26 @@
+<annotation>
+	<folder>completed</folder>
+	<filename>50.PNG</filename>
+	<path>C:\tensorflow1\models\research\object_detection\canny_images\completed\50.PNG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>502</width>
+		<height>334</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>opera house</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>273</xmin>
+			<ymin>137</ymin>
+			<xmax>425</xmax>
+			<ymax>203</ymax>
+		</bndbox>
+	</object>
+</annotation>

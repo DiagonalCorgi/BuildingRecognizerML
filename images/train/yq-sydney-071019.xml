@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>yq-sydney-071019.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\yq-sydney-071019.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>780</width>
+		<height>520</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>opera house</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>64</xmin>
+			<ymin>2</ymin>
+			<xmax>583</xmax>
+			<ymax>252</ymax>
+		</bndbox>
+	</object>
+</annotation>
